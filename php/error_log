@@ -1,0 +1,4 @@
+[30-Sep-2014 18:17:58 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigencl/public_html/php/sendbymail.php:32) in /home/sigencl/public_html/php/sendbymail.php on line 33
+[30-Sep-2014 18:19:37 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigencl/public_html/php/sendbymail.php:32) in /home/sigencl/public_html/php/sendbymail.php on line 33
+[30-Sep-2014 18:19:54 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigencl/public_html/php/sendbymail.php:32) in /home/sigencl/public_html/php/sendbymail.php on line 33
+[30-Sep-2014 18:20:51 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigencl/public_html/php/sendbymail.php:32) in /home/sigencl/public_html/php/sendbymail.php on line 33
